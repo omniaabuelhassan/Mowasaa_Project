@@ -1,0 +1,14 @@
+host:
+db.fymsdmqgqadedohkpgsy.supabase.co
+
+port:
+5432
+
+database:
+postgres
+
+user:
+postgres
+
+
+postgresql://postgres:[YOUR-PASSWORD]@db.fymsdmqgqadedohkpgsy.supabase.co:5432/postgres

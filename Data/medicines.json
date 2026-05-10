@@ -1,0 +1,352 @@
+[
+  {
+    "medicine_id": 1,
+    "brand_name": "Augmentin",
+    "scientific_name": "Amoxicillin + Clavulanic Acid",
+    "category": "Antibiotic",
+    "strength": "1g"
+  },
+  {
+    "medicine_id": 2,
+    "brand_name": "E-Mox",
+    "scientific_name": "Amoxicillin + Clavulanic Acid",
+    "category": "Antibiotic",
+    "strength": "1g"
+  },
+  {
+    "medicine_id": 3,
+    "brand_name": "Panadol",
+    "scientific_name": "Paracetamol",
+    "category": "Pain Relief",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 4,
+    "brand_name": "Abimol",
+    "scientific_name": "Paracetamol",
+    "category": "Pain Relief",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 5,
+    "brand_name": "Cetal",
+    "scientific_name": "Paracetamol",
+    "category": "Pain Relief",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 6,
+    "brand_name": "Brufen",
+    "scientific_name": "Ibuprofen",
+    "category": "Pain Relief",
+    "strength": "400mg"
+  },
+  {
+    "medicine_id": 7,
+    "brand_name": "Advil",
+    "scientific_name": "Ibuprofen",
+    "category": "Pain Relief",
+    "strength": "400mg"
+  },
+  {
+    "medicine_id": 8,
+    "brand_name": "Antinal",
+    "scientific_name": "Nifuroxazide",
+    "category": "Anti-diarrheal",
+    "strength": "200mg"
+  },
+  {
+    "medicine_id": 9,
+    "brand_name": "Streptoquin",
+    "scientific_name": "Streptomycin",
+    "category": "Anti-diarrheal",
+    "strength": "200mg"
+  },
+  {
+    "medicine_id": 10,
+    "brand_name": "Amrizole",
+    "scientific_name": "Metronidazole",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 11,
+    "brand_name": "Flagyl",
+    "scientific_name": "Metronidazole",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 12,
+    "brand_name": "Cipro",
+    "scientific_name": "Ciprofloxacin",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 13,
+    "brand_name": "Ciprofloxacin",
+    "scientific_name": "Ciprofloxacin",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 14,
+    "brand_name": "Aspirin",
+    "scientific_name": "Acetylsalicylic Acid",
+    "category": "Pain Relief",
+    "strength": "100mg"
+  },
+  {
+    "medicine_id": 15,
+    "brand_name": "Jusprin",
+    "scientific_name": "Acetylsalicylic Acid",
+    "category": "Pain Relief",
+    "strength": "100mg"
+  },
+  {
+    "medicine_id": 16,
+    "brand_name": "Congestal",
+    "scientific_name": "Paracetamol + Chlorpheniramine",
+    "category": "Cold & Flu",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 17,
+    "brand_name": "Comtrex",
+    "scientific_name": "Paracetamol + Pseudoephedrine",
+    "category": "Cold & Flu",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 18,
+    "brand_name": "Flu-Out",
+    "scientific_name": "Paracetamol + Chlorpheniramine",
+    "category": "Cold & Flu",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 19,
+    "brand_name": "Antodine",
+    "scientific_name": "Ranitidine",
+    "category": "Antacid",
+    "strength": "150mg"
+  },
+  {
+    "medicine_id": 20,
+    "brand_name": "Ranitidine",
+    "scientific_name": "Ranitidine",
+    "category": "Antacid",
+    "strength": "150mg"
+  },
+  {
+    "medicine_id": 21,
+    "brand_name": "Omeprazole",
+    "scientific_name": "Omeprazole",
+    "category": "Antacid",
+    "strength": "20mg"
+  },
+  {
+    "medicine_id": 22,
+    "brand_name": "Controloc",
+    "scientific_name": "Pantoprazole",
+    "category": "Antacid",
+    "strength": "40mg"
+  },
+  {
+    "medicine_id": 23,
+    "brand_name": "Losec",
+    "scientific_name": "Omeprazole",
+    "category": "Antacid",
+    "strength": "20mg"
+  },
+  {
+    "medicine_id": 24,
+    "brand_name": "Voltaren",
+    "scientific_name": "Diclofenac",
+    "category": "Pain Relief",
+    "strength": "50mg"
+  },
+  {
+    "medicine_id": 25,
+    "brand_name": "Cataflam",
+    "scientific_name": "Diclofenac",
+    "category": "Pain Relief",
+    "strength": "50mg"
+  },
+  {
+    "medicine_id": 26,
+    "brand_name": "Ketofan",
+    "scientific_name": "Ketoprofen",
+    "category": "Pain Relief",
+    "strength": "100mg"
+  },
+  {
+    "medicine_id": 27,
+    "brand_name": "Telfast",
+    "scientific_name": "Fexofenadine",
+    "category": "Allergy",
+    "strength": "120mg"
+  },
+  {
+    "medicine_id": 28,
+    "brand_name": "Allergex",
+    "scientific_name": "Chlorpheniramine",
+    "category": "Allergy",
+    "strength": "4mg"
+  },
+  {
+    "medicine_id": 29,
+    "brand_name": "Zyrtec",
+    "scientific_name": "Cetirizine",
+    "category": "Allergy",
+    "strength": "10mg"
+  },
+  {
+    "medicine_id": 30,
+    "brand_name": "Cetirizine",
+    "scientific_name": "Cetirizine",
+    "category": "Allergy",
+    "strength": "10mg"
+  },
+  {
+    "medicine_id": 31,
+    "brand_name": "Motilium",
+    "scientific_name": "Domperidone",
+    "category": "Anti-nausea",
+    "strength": "10mg"
+  },
+  {
+    "medicine_id": 32,
+    "brand_name": "Primperan",
+    "scientific_name": "Metoclopramide",
+    "category": "Anti-nausea",
+    "strength": "10mg"
+  },
+  {
+    "medicine_id": 33,
+    "brand_name": "Imodium",
+    "scientific_name": "Loperamide",
+    "category": "Anti-diarrheal",
+    "strength": "2mg"
+  },
+  {
+    "medicine_id": 34,
+    "brand_name": "Loperamide",
+    "scientific_name": "Loperamide",
+    "category": "Anti-diarrheal",
+    "strength": "2mg"
+  },
+  {
+    "medicine_id": 35,
+    "brand_name": "Tavanic",
+    "scientific_name": "Levofloxacin",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 36,
+    "brand_name": "Klacid",
+    "scientific_name": "Clarithromycin",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 37,
+    "brand_name": "Azithromycin",
+    "scientific_name": "Azithromycin",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 38,
+    "brand_name": "Zithromax",
+    "scientific_name": "Azithromycin",
+    "category": "Antibiotic",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 39,
+    "brand_name": "Concor",
+    "scientific_name": "Bisoprolol",
+    "category": "Heart",
+    "strength": "5mg"
+  },
+  {
+    "medicine_id": 40,
+    "brand_name": "Norvasc",
+    "scientific_name": "Amlodipine",
+    "category": "Heart",
+    "strength": "5mg"
+  },
+  {
+    "medicine_id": 41,
+    "brand_name": "Glucophage",
+    "scientific_name": "Metformin",
+    "category": "Diabetes",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 42,
+    "brand_name": "Cidophage",
+    "scientific_name": "Metformin",
+    "category": "Diabetes",
+    "strength": "500mg"
+  },
+  {
+    "medicine_id": 43,
+    "brand_name": "Amaryl",
+    "scientific_name": "Glimepiride",
+    "category": "Diabetes",
+    "strength": "2mg"
+  },
+  {
+    "medicine_id": 44,
+    "brand_name": "Vitamin C",
+    "scientific_name": "Ascorbic Acid",
+    "category": "Vitamin",
+    "strength": "1000mg"
+  },
+  {
+    "medicine_id": 45,
+    "brand_name": "Vitamin D3",
+    "scientific_name": "Cholecalciferol",
+    "category": "Vitamin",
+    "strength": "1000 IU"
+  },
+  {
+    "medicine_id": 46,
+    "brand_name": "Omega 3",
+    "scientific_name": "Omega-3 Fatty Acids",
+    "category": "Supplement",
+    "strength": "1000mg"
+  },
+  {
+    "medicine_id": 47,
+    "brand_name": "Calcium",
+    "scientific_name": "Calcium Carbonate",
+    "category": "Supplement",
+    "strength": "600mg"
+  },
+  {
+    "medicine_id": 48,
+    "brand_name": "Multivitamin",
+    "scientific_name": "Multivitamin Complex",
+    "category": "Vitamin",
+    "strength": "Various"
+  },
+  {
+    "medicine_id": 49,
+    "brand_name": "Zinc",
+    "scientific_name": "Zinc Sulfate",
+    "category": "Supplement",
+    "strength": "50mg"
+  },
+  {
+    "medicine_id": 50,
+    "brand_name": "Iron",
+    "scientific_name": "Ferrous Sulfate",
+    "category": "Supplement",
+    "strength": "200mg"
+  }
+]

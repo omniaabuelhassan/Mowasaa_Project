@@ -1,0 +1,377 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 1,
+        "name": "Dr. Neveen Pharmacy",
+        "address": "Sheraton Road, El Arousa Square, Sekala, Hurghada",
+        "phone": "+20 65 344 2201",
+        "opening_hours": "9:00 AM - 11:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8276978, 27.2565282] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 2,
+        "name": "Dr. Alaa El Khatib Pharmacy",
+        "address": "El Salam Street, Dahar, Hurghada",
+        "phone": "+20 65 344 3302",
+        "opening_hours": "8:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8282301, 27.1507843] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 3,
+        "name": "Dr. Sameh Pharmacy",
+        "address": "Touristic Passage, Villages Road, Hurghada",
+        "phone": "+20 65 345 4403",
+        "opening_hours": "10:00 AM - 9:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8248898, 27.1172684] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 4,
+        "name": "Dr. Moataz Pharmacy",
+        "address": "Sheraton Road, El Hadaba, Hurghada",
+        "phone": "+20 65 346 5504",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8245651, 27.1212659] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 5,
+        "name": "El Ezaby Pharmacy - Villages Road",
+        "address": "Hurghada Safaga Road, Villages Road, Hurghada",
+        "phone": "+20 19600",
+        "opening_hours": "24/7",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8290344, 27.1943457] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 6,
+        "name": "Dr. Nermin Pharmacy",
+        "address": "Touristic Passage, Villages Road, Hurghada",
+        "phone": "+20 65 347 6606",
+        "opening_hours": "9:00 AM - 11:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8286155, 27.1427892] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 7,
+        "name": "Dr. Sherin Pharmacy",
+        "address": "El Kahf Street, Downtown, Hurghada",
+        "phone": "+20 65 348 7707",
+        "opening_hours": "8:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8237671, 27.17257] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 8,
+        "name": "Seif Pharmacy - Sekala",
+        "address": "Sherry Street, Sekala, Hurghada",
+        "phone": "+20 101 222 8808",
+        "opening_hours": "10:00 AM - 12:00 AM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.838278, 27.2143787] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 9,
+        "name": "Dr. Ayman Alexan Pharmacy",
+        "address": "El Madares Street, Sekala, Hurghada",
+        "phone": "+20 65 349 9909",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.7739543, 27.2776756] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 10,
+        "name": "صيدلية د. سامح جليات (Dr. Sameh Geliat)",
+        "address": "Sheraton Road, Hurghada",
+        "phone": "+20 65 350 0010",
+        "opening_hours": "9:00 AM - 11:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8346842, 27.218571] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 11,
+        "name": "Sunny Days Resort Pharmacy",
+        "address": "Inside Sunny Days Resort, Hurghada",
+        "phone": "+20 65 351 1011",
+        "opening_hours": "8:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8427978, 27.2443967] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 12,
+        "name": "Dr. Omneya Pharmacy",
+        "address": "El Kawther, Hurghada",
+        "phone": "+20 65 352 1212",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8341881, 27.1914396] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 13,
+        "name": "Dr. Bola Mamdouh Pharmacy",
+        "address": "Mamsha Promenade, Hurghada",
+        "phone": "+20 65 353 1313",
+        "opening_hours": "10:00 AM - 11:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8378236, 27.2262686] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 14,
+        "name": "El Ezaby Pharmacy - Senzo Mall",
+        "address": "Senzo Mall, Ground Floor, Shop A28, Hurghada",
+        "phone": "+20 65 346 4866",
+        "opening_hours": "10:00 AM - 2:00 AM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8434858, 27.1972955] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 15,
+        "name": "Dr. Anwar Pharmacy",
+        "address": "Sheraton Road, Sekala, Hurghada",
+        "phone": "+20 65 354 1515",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8413349, 27.1962016] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 16,
+        "name": "Dr. Araby Pharmacy",
+        "address": "Sheraton Road, Sekala, Hurghada",
+        "phone": "+20 65 355 1616",
+        "opening_hours": "8:00 AM - 11:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8208588, 27.1649822] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 17,
+        "name": "Dr. Dalia Talaat Pharmacy",
+        "address": "El Pasha Street, Sekala, Hurghada",
+        "phone": "+20 65 356 1717",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8233148, 27.164861] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 18,
+        "name": "Русская аптека (Russian Pharmacy - Sea Street)",
+        "address": "Sea Street, Hurghada",
+        "phone": "+20 10 278 99 533",
+        "opening_hours": "24/7",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8239224, 27.258816] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 19,
+        "name": "Русская аптека (Russian Pharmacy - El Kawther)",
+        "address": "El Kawther, Shop 310A, Hurghada",
+        "phone": "+20 10 278 99 533",
+        "opening_hours": "24/7",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8258017, 27.1947712] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 20,
+        "name": "Русская аптека (Russian Pharmacy - Marina)",
+        "address": "Sakala Street, Marina, Hurghada",
+        "phone": "+20 10 278 99 533",
+        "opening_hours": "8:00 AM - 12:00 AM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8409202, 27.2252843] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 21,
+        "name": "Dr. Mina Youssef Pharmacy",
+        "address": "Sherry Street, Sekala, Hurghada",
+        "phone": "+20 65 357 2121",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8377735, 27.2219085] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 22,
+        "name": "Dr. Amany Nagy Pharmacy",
+        "address": "El Khaligeya Village, Villages Road, Hurghada",
+        "phone": "+20 65 358 2222",
+        "opening_hours": "8:00 AM - 10:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8275131, 27.1899827] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 23,
+        "name": "Dr. Raafat Pharmacy",
+        "address": "El Nasr Street, Dahar, Hurghada",
+        "phone": "+20 65 359 2323",
+        "opening_hours": "9:00 AM - 11:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8261074, 27.1894611] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 24,
+        "name": "El Ezaby Pharmacy - Dahar",
+        "address": "El Nasr Road, Maharem Mall, Dahar, Hurghada",
+        "phone": "+20 19600",
+        "opening_hours": "24/7",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8364004, 27.2201447] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 25,
+        "name": "Dr. Soher Pols Pharmacy",
+        "address": "El Nasr Road, Dahar, Hurghada",
+        "phone": "+20 65 360 2525",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8347514, 27.2133305] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 26,
+        "name": "Dr. Amir Tadros Pharmacy",
+        "address": "Sheraton Road, Hurghada",
+        "phone": "+20 65 361 2626",
+        "opening_hours": "8:00 AM - 10:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8302413, 27.2163596] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 27,
+        "name": "Dr. Anwar William Pharmacy",
+        "address": "Sheraton Road, Sekala, Hurghada",
+        "phone": "+20 65 362 2727",
+        "opening_hours": "9:00 AM - 11:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8377666, 27.2120373] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 28,
+        "name": "Dr. Sherin Magdy Pharmacy",
+        "address": "Sherry Street, Sekala, Hurghada",
+        "phone": "+20 65 363 2828",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8322662, 27.2193262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 29,
+        "name": "Dr. Nabil Pharmacy",
+        "address": "Sherry Street, Sekala, Hurghada",
+        "phone": "+20 65 364 2929",
+        "opening_hours": "8:00 AM - 11:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8375152, 27.2200316] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 30,
+        "name": "Seif Pharmacy - Dahar",
+        "address": "Soliman Mazhar Street, Dahar, Hurghada",
+        "phone": "+20 101 222 3030",
+        "opening_hours": "10:00 AM - 11:00 PM",
+        "has_offers": true
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8223099, 27.1653278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pharmacy_id": 31,
+        "name": "Dr. Mohamed El Salehy Pharmacy",
+        "address": "Mamsha Road, Hurghada",
+        "phone": "+20 65 365 3131",
+        "opening_hours": "9:00 AM - 10:00 PM",
+        "has_offers": false
+      },
+      "geometry": { "type": "Point", "coordinates": [33.8416241, 27.2122874] }
+    }
+  ]
+}

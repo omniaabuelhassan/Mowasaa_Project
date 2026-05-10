@@ -1,0 +1,1896 @@
+[
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 1,
+    "price": 95.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 3,
+    "price": 28.5,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "10% off this week"
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 6,
+    "price": 32.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 8,
+    "price": 21.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Buy 2 Get 1 Free"
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 12,
+    "price": 45.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 16,
+    "price": 38.0,
+    "in_stock": true,
+    "discount": 5,
+    "offer": "5% discount"
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 21,
+    "price": 52.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 27,
+    "price": 65.0,
+    "in_stock": false,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 31,
+    "price": 42.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 1,
+    "medicine_id": 44,
+    "price": 35.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 1,
+    "price": 100.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 2,
+    "price": 42.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 3,
+    "price": 30.0,
+    "in_stock": true,
+    "discount": 5,
+    "offer": "5% discount on all pain relievers"
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 4,
+    "price": 15.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 8,
+    "price": 22.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 14,
+    "price": 18.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 24,
+    "price": 48.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 29,
+    "price": 38.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 41,
+    "price": 55.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 2,
+    "medicine_id": 45,
+    "price": 72.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 3,
+    "medicine_id": 3,
+    "price": 27.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 3,
+    "medicine_id": 5,
+    "price": 16.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 3,
+    "medicine_id": 6,
+    "price": 30.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 3,
+    "medicine_id": 10,
+    "price": 38.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 3,
+    "medicine_id": 19,
+    "price": 35.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 3,
+    "medicine_id": 33,
+    "price": 28.0,
+    "in_stock": false,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 1,
+    "price": 98.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "Weekend special - 10% off"
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 3,
+    "price": 29.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 7,
+    "price": 35.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 12,
+    "price": 42.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 17,
+    "price": 40.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Flu season sale - 15% off"
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 25,
+    "price": 50.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 30,
+    "price": 25.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 4,
+    "medicine_id": 44,
+    "price": 32.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 1,
+    "price": 92.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "El Ezaby exclusive - Buy 2 boxes get 15% off"
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 2,
+    "price": 40.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "10% off generic antibiotics"
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 3,
+    "price": 26.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 4,
+    "price": 14.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 6,
+    "price": 31.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 8,
+    "price": 20.0,
+    "in_stock": true,
+    "discount": 20,
+    "offer": "Tourist special - 20% off anti-diarrheal"
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 12,
+    "price": 43.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 16,
+    "price": 36.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 21,
+    "price": 50.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 27,
+    "price": 62.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 29,
+    "price": 35.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 37,
+    "price": 85.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 41,
+    "price": 52.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 44,
+    "price": 33.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 5,
+    "medicine_id": 46,
+    "price": 95.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 6,
+    "medicine_id": 3,
+    "price": 29.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 6,
+    "medicine_id": 8,
+    "price": 23.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 6,
+    "medicine_id": 11,
+    "price": 40.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 6,
+    "medicine_id": 24,
+    "price": 52.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 6,
+    "medicine_id": 32,
+    "price": 38.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 7,
+    "medicine_id": 3,
+    "price": 28.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 7,
+    "medicine_id": 4,
+    "price": 16.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 7,
+    "medicine_id": 6,
+    "price": 33.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 7,
+    "medicine_id": 14,
+    "price": 19.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 7,
+    "medicine_id": 28,
+    "price": 22.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 1,
+    "price": 96.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 3,
+    "price": 27.5,
+    "in_stock": true,
+    "discount": 12,
+    "offer": "Seif loyalty members - 12% off"
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 6,
+    "price": 32.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 8,
+    "price": 21.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 12,
+    "price": 44.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 21,
+    "price": 51.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 27,
+    "price": 64.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "Allergy season - 10% off"
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 37,
+    "price": 88.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 41,
+    "price": 54.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 8,
+    "medicine_id": 45,
+    "price": 70.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 9,
+    "medicine_id": 3,
+    "price": 31.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 9,
+    "medicine_id": 7,
+    "price": 36.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 9,
+    "medicine_id": 16,
+    "price": 39.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 9,
+    "medicine_id": 44,
+    "price": 37.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 1,
+    "price": 94.0,
+    "in_stock": true,
+    "discount": 8,
+    "offer": "8% discount this month"
+  },
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 3,
+    "price": 27.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 4,
+    "price": 15.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 8,
+    "price": 20.5,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Tourist package - 15% off"
+  },
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 12,
+    "price": 46.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 29,
+    "price": 36.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 10,
+    "medicine_id": 33,
+    "price": 27.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 11,
+    "medicine_id": 3,
+    "price": 32.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 11,
+    "medicine_id": 8,
+    "price": 24.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 11,
+    "medicine_id": 16,
+    "price": 42.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 11,
+    "medicine_id": 27,
+    "price": 68.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 11,
+    "medicine_id": 44,
+    "price": 38.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 12,
+    "medicine_id": 1,
+    "price": 97.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "Buy 3 get 10% off"
+  },
+  {
+    "pharmacy_id": 12,
+    "medicine_id": 3,
+    "price": 28.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 12,
+    "medicine_id": 6,
+    "price": 31.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 12,
+    "medicine_id": 12,
+    "price": 44.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 12,
+    "medicine_id": 24,
+    "price": 51.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 12,
+    "medicine_id": 37,
+    "price": 86.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 13,
+    "medicine_id": 3,
+    "price": 30.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 13,
+    "medicine_id": 7,
+    "price": 34.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 13,
+    "medicine_id": 17,
+    "price": 41.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 13,
+    "medicine_id": 29,
+    "price": 37.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 13,
+    "medicine_id": 45,
+    "price": 71.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 1,
+    "price": 93.0,
+    "in_stock": true,
+    "discount": 12,
+    "offer": "Senzo Mall Grand Opening - 12% off all antibiotics"
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 2,
+    "price": 41.0,
+    "in_stock": true,
+    "discount": 12,
+    "offer": "Senzo Mall Grand Opening - 12% off all antibiotics"
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 3,
+    "price": 26.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 4,
+    "price": 14.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 5,
+    "price": 17.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 6,
+    "price": 30.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 8,
+    "price": 20.0,
+    "in_stock": true,
+    "discount": 20,
+    "offer": "Summer special - 20% off digestive medicines"
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 12,
+    "price": 43.5,
+    "in_stock": true,
+    "discount": 12,
+    "offer": "Senzo Mall Grand Opening - 12% off all antibiotics"
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 16,
+    "price": 37.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 21,
+    "price": 49.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 27,
+    "price": 63.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 29,
+    "price": 35.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 33,
+    "price": 26.0,
+    "in_stock": true,
+    "discount": 20,
+    "offer": "Summer special - 20% off digestive medicines"
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 37,
+    "price": 84.0,
+    "in_stock": true,
+    "discount": 12,
+    "offer": "Senzo Mall Grand Opening - 12% off all antibiotics"
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 41,
+    "price": 53.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 44,
+    "price": 32.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 14,
+    "medicine_id": 46,
+    "price": 93.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 15,
+    "medicine_id": 3,
+    "price": 29.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 15,
+    "medicine_id": 6,
+    "price": 32.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 15,
+    "medicine_id": 10,
+    "price": 39.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 15,
+    "medicine_id": 25,
+    "price": 49.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 16,
+    "medicine_id": 1,
+    "price": 99.0,
+    "in_stock": true,
+    "discount": 5,
+    "offer": "5% loyalty discount"
+  },
+  {
+    "pharmacy_id": 16,
+    "medicine_id": 3,
+    "price": 28.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 16,
+    "medicine_id": 8,
+    "price": 22.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 16,
+    "medicine_id": 16,
+    "price": 38.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 16,
+    "medicine_id": 27,
+    "price": 65.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 17,
+    "medicine_id": 3,
+    "price": 30.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 17,
+    "medicine_id": 4,
+    "price": 17.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 17,
+    "medicine_id": 14,
+    "price": 20.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 17,
+    "medicine_id": 29,
+    "price": 38.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 1,
+    "price": 90.0,
+    "in_stock": true,
+    "discount": 20,
+    "offer": "Russian Pharmacy - Buy 2 get 20% off"
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 3,
+    "price": 25.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Tourist discount - 15% off"
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 6,
+    "price": 29.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 8,
+    "price": 19.0,
+    "in_stock": true,
+    "discount": 25,
+    "offer": "Beach emergency kit - 25% off"
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 12,
+    "price": 41.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 16,
+    "price": 35.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 21,
+    "price": 48.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 27,
+    "price": 60.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 29,
+    "price": 33.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 33,
+    "price": 25.0,
+    "in_stock": true,
+    "discount": 25,
+    "offer": "Beach emergency kit - 25% off"
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 37,
+    "price": 82.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 44,
+    "price": 31.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "Vitamin boost - 10% off"
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 45,
+    "price": 68.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "Vitamin boost - 10% off"
+  },
+  {
+    "pharmacy_id": 18,
+    "medicine_id": 46,
+    "price": 90.0,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "Vitamin boost - 10% off"
+  },
+
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 1,
+    "price": 91.0,
+    "in_stock": true,
+    "discount": 18,
+    "offer": "Russian Pharmacy - 24/7 special offer"
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 2,
+    "price": 39.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Generic antibiotics - 15% off"
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 3,
+    "price": 24.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 4,
+    "price": 13.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 8,
+    "price": 18.5,
+    "in_stock": true,
+    "discount": 22,
+    "offer": "Tourist essential - 22% off"
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 12,
+    "price": 40.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 16,
+    "price": 34.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 21,
+    "price": 47.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 29,
+    "price": 32.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 33,
+    "price": 24.0,
+    "in_stock": true,
+    "discount": 22,
+    "offer": "Tourist essential - 22% off"
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 37,
+    "price": 81.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 44,
+    "price": 30.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 19,
+    "medicine_id": 45,
+    "price": 67.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 1,
+    "price": 89.0,
+    "in_stock": true,
+    "discount": 25,
+    "offer": "Marina special - Buy 3 get 25% off"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 3,
+    "price": 24.0,
+    "in_stock": true,
+    "discount": 20,
+    "offer": "Marina exclusive - 20% off pain relievers"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 6,
+    "price": 28.0,
+    "in_stock": true,
+    "discount": 20,
+    "offer": "Marina exclusive - 20% off pain relievers"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 8,
+    "price": 18.0,
+    "in_stock": true,
+    "discount": 30,
+    "offer": "Highest discount in Hurghada - 30% off"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 12,
+    "price": 39.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 16,
+    "price": 33.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 21,
+    "price": 46.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 27,
+    "price": 59.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 29,
+    "price": 31.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 33,
+    "price": 23.0,
+    "in_stock": true,
+    "discount": 30,
+    "offer": "Highest discount in Hurghada - 30% off"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 37,
+    "price": 80.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 41,
+    "price": 50.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 44,
+    "price": 29.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Wellness package - 15% off"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 45,
+    "price": 65.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Wellness package - 15% off"
+  },
+  {
+    "pharmacy_id": 20,
+    "medicine_id": 46,
+    "price": 88.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Wellness package - 15% off"
+  },
+
+  {
+    "pharmacy_id": 21,
+    "medicine_id": 3,
+    "price": 29.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 21,
+    "medicine_id": 7,
+    "price": 35.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 21,
+    "medicine_id": 17,
+    "price": 42.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 21,
+    "medicine_id": 30,
+    "price": 26.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 22,
+    "medicine_id": 1,
+    "price": 98.5,
+    "in_stock": true,
+    "discount": 7,
+    "offer": "7% discount"
+  },
+  {
+    "pharmacy_id": 22,
+    "medicine_id": 3,
+    "price": 28.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 22,
+    "medicine_id": 6,
+    "price": 31.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 22,
+    "medicine_id": 12,
+    "price": 45.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 22,
+    "medicine_id": 24,
+    "price": 50.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 23,
+    "medicine_id": 3,
+    "price": 27.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 23,
+    "medicine_id": 4,
+    "price": 15.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 23,
+    "medicine_id": 8,
+    "price": 21.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 23,
+    "medicine_id": 11,
+    "price": 41.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 23,
+    "medicine_id": 19,
+    "price": 36.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 1,
+    "price": 91.5,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "El Ezaby Dahar - 15% off antibiotics"
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 2,
+    "price": 39.5,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "El Ezaby Dahar - 15% off antibiotics"
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 3,
+    "price": 25.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 4,
+    "price": 13.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 6,
+    "price": 29.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 8,
+    "price": 19.5,
+    "in_stock": true,
+    "discount": 18,
+    "offer": "Digestive health week - 18% off"
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 12,
+    "price": 42.5,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "El Ezaby Dahar - 15% off antibiotics"
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 16,
+    "price": 35.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 21,
+    "price": 48.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 27,
+    "price": 61.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 37,
+    "price": 83.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "El Ezaby Dahar - 15% off antibiotics"
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 41,
+    "price": 51.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 24,
+    "medicine_id": 44,
+    "price": 31.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 25,
+    "medicine_id": 3,
+    "price": 30.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 25,
+    "medicine_id": 6,
+    "price": 33.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 25,
+    "medicine_id": 10,
+    "price": 40.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 25,
+    "medicine_id": 20,
+    "price": 34.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 26,
+    "medicine_id": 1,
+    "price": 96.5,
+    "in_stock": true,
+    "discount": 8,
+    "offer": "8% weekend discount"
+  },
+  {
+    "pharmacy_id": 26,
+    "medicine_id": 3,
+    "price": 27.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 26,
+    "medicine_id": 8,
+    "price": 20.5,
+    "in_stock": true,
+    "discount": 12,
+    "offer": "Travel essential - 12% off"
+  },
+  {
+    "pharmacy_id": 26,
+    "medicine_id": 16,
+    "price": 37.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 26,
+    "medicine_id": 29,
+    "price": 36.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 27,
+    "medicine_id": 3,
+    "price": 28.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 27,
+    "medicine_id": 4,
+    "price": 16.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 27,
+    "medicine_id": 7,
+    "price": 34.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 27,
+    "medicine_id": 15,
+    "price": 19.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 28,
+    "medicine_id": 1,
+    "price": 95.5,
+    "in_stock": true,
+    "discount": 10,
+    "offer": "10% loyalty discount"
+  },
+  {
+    "pharmacy_id": 28,
+    "medicine_id": 3,
+    "price": 26.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 28,
+    "medicine_id": 6,
+    "price": 30.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 28,
+    "medicine_id": 12,
+    "price": 43.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 28,
+    "medicine_id": 21,
+    "price": 49.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 28,
+    "medicine_id": 37,
+    "price": 85.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 29,
+    "medicine_id": 3,
+    "price": 29.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 29,
+    "medicine_id": 8,
+    "price": 22.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 29,
+    "medicine_id": 17,
+    "price": 41.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 29,
+    "medicine_id": 28,
+    "price": 23.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 1,
+    "price": 94.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 3,
+    "price": 26.0,
+    "in_stock": true,
+    "discount": 15,
+    "offer": "Seif Dahar - Flash sale 15% off"
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 6,
+    "price": 31.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 8,
+    "price": 20.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 12,
+    "price": 44.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 21,
+    "price": 50.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 27,
+    "price": 63.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 29,
+    "price": 35.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 37,
+    "price": 87.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 30,
+    "medicine_id": 41,
+    "price": 53.5,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+
+  {
+    "pharmacy_id": 31,
+    "medicine_id": 3,
+    "price": 31.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 31,
+    "medicine_id": 6,
+    "price": 34.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 31,
+    "medicine_id": 16,
+    "price": 40.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 31,
+    "medicine_id": 27,
+    "price": 67.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  },
+  {
+    "pharmacy_id": 31,
+    "medicine_id": 45,
+    "price": 74.0,
+    "in_stock": true,
+    "discount": 0,
+    "offer": null
+  }
+]

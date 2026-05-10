@@ -1,0 +1,269 @@
+[
+  {
+    "original_medicine_id": 1,
+    "alternative_medicine_id": 2,
+    "similarity": 100,
+    "note": "Same active ingredient, different brand"
+  },
+  {
+    "original_medicine_id": 2,
+    "alternative_medicine_id": 1,
+    "similarity": 100,
+    "note": "Same active ingredient, different brand"
+  },
+
+  {
+    "original_medicine_id": 3,
+    "alternative_medicine_id": 4,
+    "similarity": 100,
+    "note": "Same active ingredient (Paracetamol)"
+  },
+  {
+    "original_medicine_id": 3,
+    "alternative_medicine_id": 5,
+    "similarity": 100,
+    "note": "Same active ingredient (Paracetamol)"
+  },
+  {
+    "original_medicine_id": 4,
+    "alternative_medicine_id": 3,
+    "similarity": 100,
+    "note": "Same active ingredient (Paracetamol)"
+  },
+  {
+    "original_medicine_id": 4,
+    "alternative_medicine_id": 5,
+    "similarity": 100,
+    "note": "Same active ingredient (Paracetamol)"
+  },
+  {
+    "original_medicine_id": 5,
+    "alternative_medicine_id": 3,
+    "similarity": 100,
+    "note": "Same active ingredient (Paracetamol)"
+  },
+  {
+    "original_medicine_id": 5,
+    "alternative_medicine_id": 4,
+    "similarity": 100,
+    "note": "Same active ingredient (Paracetamol)"
+  },
+
+  {
+    "original_medicine_id": 6,
+    "alternative_medicine_id": 7,
+    "similarity": 100,
+    "note": "Same active ingredient (Ibuprofen)"
+  },
+  {
+    "original_medicine_id": 7,
+    "alternative_medicine_id": 6,
+    "similarity": 100,
+    "note": "Same active ingredient (Ibuprofen)"
+  },
+
+  {
+    "original_medicine_id": 8,
+    "alternative_medicine_id": 9,
+    "similarity": 90,
+    "note": "Both treat diarrhea"
+  },
+  {
+    "original_medicine_id": 9,
+    "alternative_medicine_id": 8,
+    "similarity": 90,
+    "note": "Both treat diarrhea"
+  },
+
+  {
+    "original_medicine_id": 10,
+    "alternative_medicine_id": 11,
+    "similarity": 100,
+    "note": "Same active ingredient (Metronidazole)"
+  },
+  {
+    "original_medicine_id": 11,
+    "alternative_medicine_id": 10,
+    "similarity": 100,
+    "note": "Same active ingredient (Metronidazole)"
+  },
+
+  {
+    "original_medicine_id": 12,
+    "alternative_medicine_id": 13,
+    "similarity": 100,
+    "note": "Same active ingredient (Ciprofloxacin)"
+  },
+  {
+    "original_medicine_id": 13,
+    "alternative_medicine_id": 12,
+    "similarity": 100,
+    "note": "Same active ingredient (Ciprofloxacin)"
+  },
+
+  {
+    "original_medicine_id": 14,
+    "alternative_medicine_id": 15,
+    "similarity": 100,
+    "note": "Same active ingredient (Aspirin)"
+  },
+  {
+    "original_medicine_id": 15,
+    "alternative_medicine_id": 14,
+    "similarity": 100,
+    "note": "Same active ingredient (Aspirin)"
+  },
+
+  {
+    "original_medicine_id": 16,
+    "alternative_medicine_id": 17,
+    "similarity": 95,
+    "note": "Both cold & flu medications"
+  },
+  {
+    "original_medicine_id": 16,
+    "alternative_medicine_id": 18,
+    "similarity": 100,
+    "note": "Same active ingredients"
+  },
+  {
+    "original_medicine_id": 17,
+    "alternative_medicine_id": 16,
+    "similarity": 95,
+    "note": "Both cold & flu medications"
+  },
+  {
+    "original_medicine_id": 18,
+    "alternative_medicine_id": 16,
+    "similarity": 100,
+    "note": "Same active ingredients"
+  },
+
+  {
+    "original_medicine_id": 19,
+    "alternative_medicine_id": 20,
+    "similarity": 100,
+    "note": "Same active ingredient (Ranitidine)"
+  },
+  {
+    "original_medicine_id": 20,
+    "alternative_medicine_id": 19,
+    "similarity": 100,
+    "note": "Same active ingredient (Ranitidine)"
+  },
+
+  {
+    "original_medicine_id": 21,
+    "alternative_medicine_id": 23,
+    "similarity": 100,
+    "note": "Same active ingredient (Omeprazole)"
+  },
+  {
+    "original_medicine_id": 21,
+    "alternative_medicine_id": 22,
+    "similarity": 95,
+    "note": "Similar action (PPI)"
+  },
+  {
+    "original_medicine_id": 22,
+    "alternative_medicine_id": 21,
+    "similarity": 95,
+    "note": "Similar action (PPI)"
+  },
+  {
+    "original_medicine_id": 23,
+    "alternative_medicine_id": 21,
+    "similarity": 100,
+    "note": "Same active ingredient (Omeprazole)"
+  },
+
+  {
+    "original_medicine_id": 24,
+    "alternative_medicine_id": 25,
+    "similarity": 100,
+    "note": "Same active ingredient (Diclofenac)"
+  },
+  {
+    "original_medicine_id": 25,
+    "alternative_medicine_id": 24,
+    "similarity": 100,
+    "note": "Same active ingredient (Diclofenac)"
+  },
+
+  {
+    "original_medicine_id": 27,
+    "alternative_medicine_id": 29,
+    "similarity": 90,
+    "note": "Both antihistamines"
+  },
+  {
+    "original_medicine_id": 27,
+    "alternative_medicine_id": 30,
+    "similarity": 90,
+    "note": "Both antihistamines"
+  },
+  {
+    "original_medicine_id": 29,
+    "alternative_medicine_id": 30,
+    "similarity": 100,
+    "note": "Same active ingredient (Cetirizine)"
+  },
+  {
+    "original_medicine_id": 30,
+    "alternative_medicine_id": 29,
+    "similarity": 100,
+    "note": "Same active ingredient (Cetirizine)"
+  },
+
+  {
+    "original_medicine_id": 31,
+    "alternative_medicine_id": 32,
+    "similarity": 90,
+    "note": "Both anti-nausea"
+  },
+  {
+    "original_medicine_id": 32,
+    "alternative_medicine_id": 31,
+    "similarity": 90,
+    "note": "Both anti-nausea"
+  },
+
+  {
+    "original_medicine_id": 33,
+    "alternative_medicine_id": 34,
+    "similarity": 100,
+    "note": "Same active ingredient (Loperamide)"
+  },
+  {
+    "original_medicine_id": 34,
+    "alternative_medicine_id": 33,
+    "similarity": 100,
+    "note": "Same active ingredient (Loperamide)"
+  },
+
+  {
+    "original_medicine_id": 37,
+    "alternative_medicine_id": 38,
+    "similarity": 100,
+    "note": "Same active ingredient (Azithromycin)"
+  },
+  {
+    "original_medicine_id": 38,
+    "alternative_medicine_id": 37,
+    "similarity": 100,
+    "note": "Same active ingredient (Azithromycin)"
+  },
+
+  {
+    "original_medicine_id": 41,
+    "alternative_medicine_id": 42,
+    "similarity": 100,
+    "note": "Same active ingredient (Metformin)"
+  },
+  {
+    "original_medicine_id": 42,
+    "alternative_medicine_id": 41,
+    "similarity": 100,
+    "note": "Same active ingredient (Metformin)"
+  }
+]
