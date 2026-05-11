@@ -59,60 +59,59 @@ exports.smartSearch = async (req, res, next) => {
       ...alternativesResult.rows.map((a) => a.medicine_id),
     ];
 
-    // Step 3: Find pharmacies with these medicines (within radius)
-    const radiusMeters = radius * 1000;
+   // Step 3: Find pharmacies with these medicines (within radius)
+const radiusMeters = radius * 1000;
 
-    const result = await pool.query(
-      `
-            SELECT 
-                p.pharmacy_id,
-                p.name as pharmacy_name,
-                p.address,
-                p.phone,
-                p.opening_hours,
-                p.has_offers,
-                ST_X(p.location::geometry) as longitude,
-                ST_Y(p.location::geometry) as latitude,
-                ST_Distance(
-                    p.location,
-                    ST_SetSRID(ST_MakePoint(parseFloat(longitude), parseFloat(latitude)), 4326)::geography
-                ) / 1000 as distance_km,
-                m.medicine_id,
-                m.brand_name as medicine_name,
-                m.scientific_name,
-                pi.price,
-                pi.discount,
-                pi.offer,
-                pi.in_stock,
-                CASE 
-                    WHEN m.medicine_id = $1 THEN 'original'
-                    ELSE 'alternative'
-                END as medicine_type,
-                -- Calculate final price after discount
-                ROUND(pi.price * (1 - pi.discount::decimal / 100), 2) as final_price
-            FROM pharmacy_inventory pi
-            JOIN pharmacies p ON pi.pharmacy_id = p.pharmacy_id
-            JOIN medicines m ON pi.medicine_id = m.medicine_id
-            WHERE pi.medicine_id = ANY($4)
-            AND pi.in_stock = TRUE
-            AND ST_DWithin(
-                p.location,
-                ST_SetSRID(ST_MakePoint($2, $3), 4326)::geography,
-                $5
-            )
-            ORDER BY 
-                distance_km ASC,
-                medicine_type ASC,  -- Show original medicine first
-                final_price ASC     -- Then sort by price
-        `,
-      [
-        foundMedicine.medicine_id,
-        longitude,
-        latitude,
-        allMedicineIds,
-        radiusMeters,
-      ],
-    );
+const result = await pool.query(
+  `
+    SELECT 
+        p.pharmacy_id,
+        p.name as pharmacy_name,
+        p.address,
+        p.phone,
+        p.opening_hours,
+        p.has_offers,
+        ST_X(p.location::geometry) as longitude,
+        ST_Y(p.location::geometry) as latitude,
+        ST_Distance(
+            p.location,
+            ST_SetSRID(ST_MakePoint($2, $3), 4326)::geography
+        ) / 1000 as distance_km, -- Use $2 and $3 here!
+        m.medicine_id,
+        m.brand_name as medicine_name,
+        m.scientific_name,
+        pi.price,
+        pi.discount,
+        pi.offer,
+        pi.in_stock,
+        CASE 
+            WHEN m.medicine_id = $1 THEN 'original'
+            ELSE 'alternative'
+        END as medicine_type,
+        ROUND(pi.price * (1 - pi.discount::decimal / 100), 2) as final_price
+    FROM pharmacy_inventory pi
+    JOIN pharmacies p ON pi.pharmacy_id = p.pharmacy_id
+    JOIN medicines m ON pi.medicine_id = m.medicine_id
+    WHERE pi.medicine_id = ANY($4)
+    AND pi.in_stock = TRUE
+    AND ST_DWithin(
+        p.location,
+        ST_SetSRID(ST_MakePoint($2, $3), 4326)::geography,
+        $5
+    )
+    ORDER BY 
+        distance_km ASC,
+        medicine_type ASC,
+        final_price ASC
+`,
+  [
+    foundMedicine.medicine_id,
+    parseFloat(longitude), // Ensure these are numbers
+    parseFloat(latitude),
+    allMedicineIds,
+    radiusMeters,
+  ],
+);
 
     // Format response
     res.json({
