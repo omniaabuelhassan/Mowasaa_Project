@@ -3,7 +3,7 @@ import './SearchBar.css';
 
 const SearchBar = ({ onSearch, loading }) => {
     const [medicineName, setMedicineName] = useState('');
-    const [searchRadius, setSearchRadius] = useState(10);
+    const [searchRadius, setSearchRadius] = useState(200);
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -41,7 +41,7 @@ const SearchBar = ({ onSearch, loading }) => {
                             id="radius"
                             type="range"
                             min="1"
-                            max="50"
+                            max="200"
                             value={searchRadius}
                             onChange={(e) => setSearchRadius(e.target.value)}
                             className="search-slider"
@@ -49,7 +49,7 @@ const SearchBar = ({ onSearch, loading }) => {
                         />
                         <div className="radius-labels">
                             <span>1 km</span>
-                            <span>50 km</span>
+                            <span>200 km</span>
                         </div>
                     </div>
 

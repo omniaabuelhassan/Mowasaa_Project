@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // 1. Add extensions (.jsx) to local component imports
-import Navbar from "./components/Navbar/Navbar.jsx"; 
+import Navbar from "./components/Navbar/Navbar.jsx";
 import SearchBar from "./components/Search/SearchBar.jsx";
 import MapView from "./components/Map/MapView.jsx";
 import ResultsList from "./components/Results/ResultsList.jsx";
@@ -9,7 +9,7 @@ import AdminPanel from "./components/Admin/AdminPanel.jsx";
 
 // 2. Fix the path to api.js (it's now in ./components/services/api.js)
 // AND add the .js extension
-import { smartSearch, getAllPharmacies } from "./components/services/api.js"; 
+import { smartSearch, getAllPharmacies } from "./components/services/api.js";
 import "./App.css";
 
 // Home Page Component
@@ -58,7 +58,7 @@ function HomePage() {
     }
   };
 
-  const handleSearch = async (medicineName, radius) => {
+  const handleSearch = async (medicineName, radius = 200) => {
     if (!userLocation) {
       setError("Unable to get your location. Please enable location services.");
       return;
